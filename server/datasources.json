@@ -1,0 +1,13 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongodb-local": {
+    "host": "localhost",
+    "port": 27017,
+    "database": "botzilla",
+    "name": "mongodb-local",
+    "connector": "mongodb"
+  }
+}
